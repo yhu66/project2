@@ -6,11 +6,11 @@ body
 }
 nav
 {
-    font-family: Calibri, 'Times New Roman', Times, serif;
-    color: white;
+    font-family: Calibri;
+    color: black;
 }
 h1
 {
-    font-family: Calibri, 'Times New Roman', Times, serif;
-    color: white;
+    font-family: serif;
+    color: black;
 }
