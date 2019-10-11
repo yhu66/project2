@@ -12,6 +12,36 @@ nav
 }
 h1
 {
-    font-family: Helvetica，Arial, sans-serif;
+    font-family: Consolas，Helvetica, Helvetica;
+    color: black;
+}
+h2
+{
+    font-family: Consolas, Times, Helvetica;
+    color: black;
+}
+h3
+{
+    font-family: Consolas, Times, Helvetica;
+    color: black;
+}
+h4
+{
+    font-family: Consolas, Times, Helvetica;
+    color: black;
+}
+p
+{
+    font-family: Consolas, Times, Helvetica;
+    color: black;
+}
+ul
+{
+    font-family: Consolas, 'Times New Roman', Times, serif;
+    color: black;
+}
+li
+{
+    font-family: Consolas, 'Times New Roman', Times, serif;
     color: black;
 }
