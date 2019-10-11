@@ -1,6 +1,16 @@
 body
 {
-    font-family: Futura, Didot ;
+    font-family: Calibri ;
     color: black;
     background-color: white;
+}
+nav
+{
+    font-family: Calibri, 'Times New Roman', Times, serif;
+    color: white;
+}
+h1
+{
+    font-family: Calibri, 'Times New Roman', Times, serif;
+    color: white;
 }
