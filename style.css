@@ -37,11 +37,11 @@ p
 }
 ul
 {
-    font-family: Consolas, 'Times New Roman', Times, serif;
+    font-family: Consolas, Times, Helvetica;
     color: black;
 }
 li
 {
-    font-family: Consolas, 'Times New Roman', Times, serif;
+    font-family: Consolas, Times, Helvetica;
     color: black;
 }
