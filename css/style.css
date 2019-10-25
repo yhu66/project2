@@ -39,12 +39,12 @@ body
 
 h1 { 
     font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
-      color: black;
-     font-size: 120px; 
+    color: black;
+    font-size: 120px; 
     font-style: normal; 
-  font-variant: normal; 
-  font-weight: 400; 
-  line-height: 49px;
+    font-variant: normal; 
+    font-weight: 400; 
+    line-height: 49px;
     text-align: center;
 } 
 
@@ -74,9 +74,8 @@ p
     text-align: center;
 }
 
-ul { 
-display:table; 
-margin:0 auto;
+div { 
+  text-align: center; 
 }
 
 
