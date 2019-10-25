@@ -5,17 +5,17 @@ nav{
   font-size: medium;
 }
 
-.centerNavigation{
+.nav{
   text-align: center;
 }
 
-.centerNavigation ul{
+.nav ul{
   display: inline-block;
   margin: 0;
   padding: 0;
   list-style-type: none
 }
-.centerNavigation li{
+.nav li{
   float: left;
   margin: 0px 120px 0px 120px;
   text-align:center;
