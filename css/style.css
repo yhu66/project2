@@ -75,18 +75,18 @@ p
     text-align: center;
 }
 
-ol
-{
-    font-family: Futura,Trebuchet MS,Arial,sans-serif;
-    color: black;
+
+
+div { 
+  text-align: center; 
 }
 
 ul
 {
     font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
     color: black;
-    display:table; 
-    margin:0 auto;
+    display:inline-block; 
+    text-align: left;
 }
 
 li
