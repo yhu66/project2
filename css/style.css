@@ -72,15 +72,15 @@ p
 {
     font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
     color: black;
-      text-align: center;
-
+    text-align: center;
 }
+
 ol
 {
     font-family: Futura,Trebuchet MS,Arial,sans-serif;
     color: black;
-
 }
+
 ul
 {
     font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
@@ -88,11 +88,13 @@ ul
     display:table; 
     margin:0 auto;
 }
+
 li
 {
     font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
     color: black;  
-    display: inline-block; text-align: left;
+    display: inline-block; 
+    text-align: center;
 }
 
 img {
