@@ -81,13 +81,8 @@ div {
   text-align: center; 
 }
 
-ul
-{
-    font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
-    color: black;
-    display:inline-block; 
-    text-align: left;
-}
+ul { display:table; margin:0 auto;}
+
 
 li
 {
