@@ -67,17 +67,11 @@ h3
       text-align: center;
 }
 
-p
-{
+p{
     font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
     color: black;
     text-align: center;
 }
-
-div { 
-  text-align: center; 
-}
-
 
 li
 {
