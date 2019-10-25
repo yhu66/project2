@@ -13,7 +13,6 @@ nav ul{
 nav li
 {
     display:inline;
-    padding:0% 5%;
     font-family: Futura,Trebuchet MS,Arial,sans-serif;
 
 }
@@ -44,7 +43,6 @@ h1 {
   line-height: 49px;
     margin: 0;
   padding: 0;
-  letter-spacing: -0.1em
     text-align: center;
 } 
 
