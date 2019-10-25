@@ -59,13 +59,12 @@ h2
       text-align: center;
 
 }
+
 h3
 {
   font-family: 'ButlerRegular', Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
     color: black;
       text-align: center;
-
-
 }
 
 p
@@ -76,21 +75,9 @@ p
 }
 
 
-
-div { 
-  text-align: center; 
-}
-
-ul { 
-
-  display:table; 
-  margin:0 auto;
-}
-
-
 li
 {
-font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
+  font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
    color: black;  
 }
 
