@@ -82,6 +82,7 @@ div {
 }
 
 ul { 
+
   display:table; 
   margin:0 auto;
 }
@@ -89,10 +90,8 @@ ul {
 
 li
 {
-    font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
-    color: black;  
-    display: inline-block; 
-    text-align: center;
+font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
+   color: black;  
 }
 
 img {
