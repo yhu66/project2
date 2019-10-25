@@ -77,11 +77,15 @@ li
     color: black;
 }
 
-img{
-      display:inline;
-
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
+
 iframe{
-      display:inline;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 
 }
