@@ -73,6 +73,12 @@ p{
     text-align: center;
 }
 
+ul {
+
+  display: table;
+  margin:0 auto;
+}
+
 li
 {
   font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
