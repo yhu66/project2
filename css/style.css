@@ -8,18 +8,23 @@ nav{
 
 nav ul{
   background-color: black;
+  text-align:center;
+
 }
 
 nav li
 {
     display:inline;
     font-family: Futura,Trebuchet MS,Arial,sans-serif;
+    text-align:center;
 
 }
 nav a
 {
     display:inline-block;
     color: white;
+    text-align:center;
+
 }
 
 
