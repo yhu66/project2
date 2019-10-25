@@ -6,6 +6,10 @@ nav{
   text-align:center;
 }
 
+nav ul{
+  background-color: black;
+}
+
 nav li
 {
     display:inline;
