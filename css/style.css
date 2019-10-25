@@ -8,8 +8,7 @@ nav{
 
 }
 
-
-nav ul{
+ul{
   display: inline-block;
   margin: 0;
   padding: 0;
@@ -17,11 +16,14 @@ nav ul{
 }
 
 
-nav li
+li
 {
     display:inline;
+    text-align:center;
+
 }
-nav a
+
+a
 {
     display:inline-block;
     padding:10px;
