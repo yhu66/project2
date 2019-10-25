@@ -18,6 +18,7 @@ nav{
 .centerNavigation li{
   float: left;
   margin: 0px 120px 0px 120px;
+  text-align:center;
 }
 
 
