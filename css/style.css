@@ -75,3 +75,12 @@ li
     font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
     color: black;
 }
+
+img{
+      display:inline;
+
+}
+iframe{
+      display:inline;
+
+}
