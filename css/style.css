@@ -1,8 +1,9 @@
 nav{
   background-color: black;
   font-family: Futura,Trebuchet MS,Arial,sans-serif;
-  font-weight: normal;
-  font-size: medium;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
   text-align:center;
 
 }
