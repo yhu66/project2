@@ -37,10 +37,12 @@ h1 {
     font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
       color: black;
      font-size: 120px; 
-  font-style: normal; 
+    font-style: normal; 
   font-variant: normal; 
   font-weight: 400; 
   line-height: 49px;
+    margin: 0;
+  padding: 0;
     text-align: center;
 } 
 
