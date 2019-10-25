@@ -1,6 +1,5 @@
 nav{
   background-color: black;
-  font-family: Futura,Trebuchet MS,Arial,sans-serif;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -10,6 +9,8 @@ nav{
 nav li
 {
     display:inline;
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+
 }
 nav a
 {
