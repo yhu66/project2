@@ -33,22 +33,31 @@ h1
 {
     font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
     color: black;
+    text-align: center;
+
 }
 h2
 {
     font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
     color: black;
+      text-align: center;
+
 }
 h3
 {
     font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
     color: black;
+      text-align: center;
+
+
 }
 
 p
 {
     font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
     color: black;
+      text-align: center;
+
 }
 ol
 {
