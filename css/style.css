@@ -74,6 +74,7 @@ ul
 li
 {
     font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
+    display:inline;
     color: black;
 }
 
