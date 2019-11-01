@@ -19,8 +19,7 @@ nav li
 {
     font-family: Futura,Trebuchet MS,Arial,sans-serif;
     display:inline-block;
-    display: inline;
-
+    padding: 15px 15px;
 }
 
 nav a
