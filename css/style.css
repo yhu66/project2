@@ -11,7 +11,7 @@ nav ul{
   width: 100%;
   text-align: center;
   overflow: hidden;
-  background-color: #1a1a1a;
+  background-color: #0a0a0a;
 
 }
 
@@ -32,7 +32,10 @@ nav a
 
 nav a:hover
 {
-    background-color: #d4af37;
+    background-color: white;
+    color: black;
+;
+
 }
 
 
@@ -40,7 +43,7 @@ body
 {
     font-family: Futura,Trebuchet MS,Arial,sans-serif;
     color: black;
-    background-color: #1a1a1a;
+    background-color: #0a0a0a;
 }
 
 
