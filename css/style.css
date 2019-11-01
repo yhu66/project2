@@ -1,27 +1,31 @@
 nav{
   font-family: Futura,Trebuchet MS,Arial,sans-serif;
-  background-color: black;
+  color: black;
   text-align:center;
 
 }
 
 nav ul{
   background-color: black;
-     display: inline-block;
+   display: inline-block;
     list-style-type: none;
     margin: 0 auto;
     width: 100%;
     text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
 
 }
 
 nav li
 {
     font-family: Futura,Trebuchet MS,Arial,sans-serif;
-    background-color: black;
+      background-color: gold;
     display:inline-block;
     display: inline;
     padding: 1em;
+  
+  
 
 }
 
