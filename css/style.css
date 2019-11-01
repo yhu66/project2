@@ -113,6 +113,7 @@ iframe{
   width: 600px;
   height: 580px;
   border: 0px;
+  border-width:0px;
 }
 
 div{
