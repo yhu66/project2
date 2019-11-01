@@ -5,12 +5,13 @@ nav{
 
 nav ul{
    display: inline-block;
-    list-style-type: none;
-    margin: 0 auto;
-    width: 100%;
-    text-align: center;
-    padding-top: 1%;
-    padding-bottom: 1%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  text-align: center;
+  overflow: hidden;
+  background-color: #333;
 
 }
 
@@ -23,15 +24,17 @@ nav li
 
 }
 
-#nav li:hover
-{
-    background-color: white;
-}
-
 nav a
 {
     color: white;
-      padding:10px;
+    padding:10px;
+    text-align: center;
+
+}
+
+nav a:hover
+{
+    background-color: #d4af37;
 }
 
 
