@@ -40,13 +40,13 @@ body
 {
     font-family: Futura,Trebuchet MS,Arial,sans-serif;
     color: black;
-    background-color: white;
+    background-color: #262626;
 }
 
 
 h1 { 
     font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
-    color: black;
+    color: white;
     font-size: 120px; 
     font-style: normal; 
     font-variant: normal; 
@@ -62,7 +62,7 @@ h2
        font-size: 70px; 
    font-weight: normal;
    font-style: normal;
-    color: black;
+    color: white;
   text-align: center;
   margin:50px;
 
@@ -71,7 +71,7 @@ h2
 h3
 {
   font-family: ButlerRegular, Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
-    color: black;
+    color: white;
       text-align: center;
     margin:50px;
 
@@ -79,7 +79,7 @@ h3
 
 p{
     font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
-    color: black;
+    color: white;
     text-align: center;
 }
 
@@ -92,7 +92,7 @@ ul {
 li
 {
   font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
-   color: black;  
+  color: white;
 }
 
 img {
