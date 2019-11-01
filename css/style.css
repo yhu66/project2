@@ -62,21 +62,35 @@ h1 {
 h2
 {
   font-family: ButlerRegular, Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
-       font-size: 70px; 
+   font-size: 70px; 
    font-weight: normal;
    font-style: normal;
-    color: white;
-  text-align: center;
-  margin:50px;
+   color: white;
+   text-align: center;
+   margin:50px;
 
 }
 
 h3
 {
   font-family: ButlerRegular, Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
-    color: white;
-    text-align: center;
-    margin:50px;
+   font-size: 60px; 
+   font-weight: normal;
+   font-style: normal;
+   color: white;
+   text-align: center;
+   margin:50px;
+}
+
+h4
+{
+  font-family: ButlerRegular, Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
+   font-size: 40px; 
+   font-weight: normal;
+   font-style: normal;
+   color: white;
+   text-align: center;
+   margin:50px;
 
 }
 
