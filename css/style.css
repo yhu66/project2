@@ -4,7 +4,7 @@ nav{
 }
 
 nav ul{
-   display: inline-block;
+  display: inline-block;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -12,108 +12,95 @@ nav ul{
   text-align: center;
   overflow: hidden;
   background-color: #0a0a0a;
-
 }
 
-nav li
-{
-    font-family: Arial,Futura,Trebuchet MS,Arial,sans-serif;
-    display:inline-block;
-    padding: 15px 15px;
-}
-
-nav a
-{
-    color: white;
-    padding:10px;
-    text-align: center;
-    text-decoration: none;
-}
-
-nav a:hover
-{
-    background-color: white;
-    color: black;
-;
-
-}
-
-
-body
-{
+nav li{
   font-family: Arial,Futura,Trebuchet MS,Arial,sans-serif;
-    color: black;
-    background-color: #0a0a0a;
+  display:inline-block;
+  padding: 15px 15px;
+}
+
+nav a{
+  color: white;
+  padding:10px;
+  text-align: center;
+  text-decoration: none;
+}
+
+nav a:hover{
+  background-color: white;
+  color: black;
 }
 
 
-h1 { 
-    font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
-    color: white;
-    font-size: 120px; 
-    font-style: normal; 
-    font-variant: normal; 
-    font-weight: 400; 
-    line-height: 49px;
-    text-align: center;
+body{
+  font-family: Arial,Futura,Trebuchet MS,Arial,sans-serif;
+  color: black;
+  background-color: #0a0a0a;
+}
+
+
+h1{ 
+  font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
+  color: white;
+  font-size: 120px;
+  font-style: normal;
+  font-variant: normal; 
+  font-weight: 400; 
+  line-height: 49px;
+  text-align: center;
 } 
 
 
-h2
-{
+h2{
   font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
-   font-size: 70px; 
-   font-weight: normal;
-   font-style: normal;
-   color: white;
-   text-align: center;
-   margin:50px;
+  font-size: 70px; 
+  font-weight: normal;
+  font-style: normal;
+  color: white;
+  text-align: center;
+  margin:50px;
 
 }
 
-h3
-{
+h3{
   font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
-   font-size: 60px; 
-   font-weight: normal;
-   font-style: normal;
-   color: white;
-   text-align: center;
-   margin:50px;
+  font-size: 60px; 
+  font-weight: normal;
+  font-style: normal;
+  color: white;
+  text-align: center;
+  margin:50px;
 }
 
-h4
-{
+h4{
   font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
-   font-size: 40px; 
-   font-weight: normal;
-   font-style: normal;
-   color: white;
-   text-align: center;
-   margin:50px;
-
+  font-size: 40px; 
+  font-weight: normal;
+  font-style: normal;
+  color: white;
+  text-align: center;
+  margin:50px;
 }
 
 p{
-    font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
-    color: white;
-    text-align: center;
+  font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
+  color: white;
+  text-align: center;
 
 }
 
-ul {
-
+ul{
   display: table;
   margin:0 auto;
 }
 
-li
-{
+li{
   font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
   color: white;
 }
 
-img {
+img{
   display: block;
   margin-left: auto;
   margin-right: auto;
