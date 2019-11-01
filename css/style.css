@@ -110,6 +110,8 @@ iframe{
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 600px;
+  height: 580px;
   border: 0px;
 }
 
